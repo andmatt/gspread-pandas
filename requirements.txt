@@ -1,6 +1,7 @@
 # Reqs
-oauth2client
 gspread>=3.0.0
 pandas>=0.20.0
 decorator
 future
+google-auth
+google-auth-oauthlib
